@@ -6,4 +6,4 @@ Personnel
 Equipages
 News
 
-test merge locale
+test merge
