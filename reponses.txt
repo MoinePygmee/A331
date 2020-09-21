@@ -1,0 +1,10 @@
+Réponses
+
+3.2/
+Le "git status" montre qu'il n'y a rien actuellement.
+
+3.4/
+Le second "git status" montre que le fichier a été add et qu'il faut le commit.
+
+3.8/
+Permet de connaitre tout les commits du repo fais.
